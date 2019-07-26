@@ -59,7 +59,7 @@ def getPageData(html, lastURL):
 			sendToBot(url)
 	return lurl
 	
-greet_bot = BotHandler('708963627:AAEEdHSvhjiZj4H7j7dKrsfw6TwhmB8VmAM')
+greet_bot = BotHandler('')
 
 def main():
     m = 0
